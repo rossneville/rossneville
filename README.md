@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to estimate latent class growth models using lcmm
 - 💞️ I’m looking to collaborate on the application of latent class growth models to nationally-representative longitudinal data
 - 📫 ross.neville@ucd.ie
-- ⚡ Fun fact: ...
 
 <!---
 rossneville/rossneville is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
